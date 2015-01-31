@@ -1,0 +1,11 @@
+.container {
+  background-color: #000;
+  height: 600px;
+  margin-top: 40px;
+}
+
+.blue-div {
+  background-color: #007FFF;
+  height: 300px;
+  top: 150px;
+}
